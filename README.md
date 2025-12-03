@@ -3,7 +3,7 @@
 Ini adalah sistem intelijen pasar yang menggabungkan Analisis Fundamental (Sentimen Berita Live) dengan Analisis Teknikal (SMC & ATR) untuk menghasilkan sinyal trading dengan probabilitas tinggi.
 
 ## 🚀 Tampilan Dashboard
-![Dashboard AlphaQuant Pro](dashboard.png)
+![Dashboard AlphaQuant Pro](dashboard.jpg)
 
 ## 🎯 Fitur Unggulan
 - **Analisis Multi-Aset:** Menganalisis Crypto (BTC, ETH), Komoditas (Gold), dan Forex.
